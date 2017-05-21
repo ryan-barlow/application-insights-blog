@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+@media screen and (min-width: 64em) {
+ .page-header {
+     padding: 3rem 6rem 1em 6em;
+ }
+}
+
 .page-header > a { 
   display: none
 }
