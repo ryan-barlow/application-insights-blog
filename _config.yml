@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-permalink: /:year/:month/:day/:title
+permalink: /application-insights-blog/:year/:month/:day/:title
