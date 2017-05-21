@@ -7,6 +7,4 @@
 			{{ post.content | truncatewords:150 }}<br /><br />
 			<a href="{{ post.url }}" title="{{ post.title }}">Read the full post</a>
 		</p>
-	</li>
 	{% endfor %}
-</ul>
