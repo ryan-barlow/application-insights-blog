@@ -1,5 +1,7 @@
 # Prologue
 
+![The author, at a rare moment he wasn’t coding](/images/logo.png)
+
 Its the era of the cloud. Big data is the buzzword of the moment. The ‘DevOps environment’ is the promised land, appearing on every job advert from Silicon Valley to Sutton-On-Sea (via Sicilly, Seoul, Sydney and places that don’t begin with S).
 
 Pingdom, Google Analytics and the like are of course, long since ubiquitous in every development office around the world. However, gaps in data collection still exist.
