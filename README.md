@@ -1,9 +1,13 @@
 <ul class="posts">
 	{% for post in site.posts %}
 	<li>
-		<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-		<p>{{ post.content | truncatewords:150 }}</p>
-		<a href="{{ post.url }}" title="{{ post.title }}">Read the full post</a>
+		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
+		<span>{{ post.date | date_to_string }}</span>
+		
+		<p>
+			{{ post.content | truncatewords:150 }}<br /><br />
+			<a href="{{ post.url }}" title="{{ post.title }}">Read the full post</a>
+		</p>
 	</li>
 	{% endfor %}
 </ul>
