@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-url: "ryan-barlow.github.io/application-insights-blog/"
-permalink: /:year/:month/:day/:title
+permalink: /application-insights-blog/:year/:month/:day/:title
