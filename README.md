@@ -15,3 +15,7 @@ A bead of sweat dribbles down your forehead. ‘****! Do I log that? Can I get t
 New Relic, Stackify and other APM (Application-Performance Management) tools are some options available for server side performance monitoring. The downside, is that they are often very costly to set up. Enter Microsoft and Application Insights.
 
 This blog is intended as a primer to Application Insights, with the hope that it pulls together from a lot of disparate sources and gets you up and running.
+
+<style>
+body { background-color: #0F0; }
+</style>
