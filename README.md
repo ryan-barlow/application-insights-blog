@@ -17,5 +17,7 @@ New Relic, Stackify and other APM (Application-Performance Management) tools are
 This blog is intended as a primer to Application Insights, with the hope that it pulls together from a lot of disparate sources and gets you up and running.
 
 <style>
-body { background-color: #0F0; }
+.page-header > a { 
+  display: none
+}
 </style>
