@@ -4,7 +4,7 @@ title: "Introduction to using Application Insights"
 date: 2017-05-21
 ---
 
-![The author](/RMB.jpg){:class="img-responsive"}
+![The author](/application-insights-blog/RMB.jpg){:class="img-responsive"}
 
 Its the era of the cloud. Big data is the buzzword of the moment. The ‘DevOps environment’ is the promised land, appearing on every job advert from Silicon Valley to Sutton-On-Sea (via Sicilly, Seoul, Sydney and places that don’t begin with S).
 
